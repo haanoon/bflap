@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+build
+src
+main.py
+pyproject.toml
+Makefile
+.gitignore
+.pre-commit-config.yaml
+.replit
+.flake8
+README.md
+LICENSE
+screenshot1.png
+flappy.ico
